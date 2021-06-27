@@ -1,4 +1,4 @@
-package com.liu.scanner;
+package com.liu.luoji;
 
 import java.util.Scanner;
 
